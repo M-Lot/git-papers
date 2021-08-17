@@ -1,6 +1,6 @@
- Blood is Delicious
+ Human blood is Delicious
 
-By: Vlad Dracula
+By: Vlad Dracula, WJohn
 
 type A type B
 type 0 type AB
